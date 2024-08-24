@@ -1,0 +1,8 @@
+.env
+docs-store
+example-pdfs
+example2-pdfs
+example3-pdfs
+extracted pdfs
+qdrant_storage
+*.ipynb
